@@ -61,41 +61,6 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 
 ---
 
-## 🎯 Proyectos Destacados
-
-### 🔍 Sistema de Detección de Objetos en Tiempo Real
-- **Tecnologías:** Python, YOLOv8, OpenCV, TensorFlow
-- **Descripción:** Sistema de computer vision para detectar y clasificar objetos en video streams
-- **Aplicación:** Optimización de procesos industriales y control de calidad
-
-### 🏭 Optimización de Procesos Industriales con IA
-- **Tecnologías:** Python, Scikit-learn, Pandas, Matplotlib
-- **Descripción:** Modelos predictivos para optimizar la eficiencia operacional
-- **Impacto:** Reducción del 15% en costos operativos
-
-### 🌐 Plataforma Web de Análisis de Datos
-- **Tecnologías:** React, Node.js, PostgreSQL, D3.js
-- **Descripción:** Dashboard interactivo para visualización de KPIs industriales
-- **Características:** Análisis en tiempo real y reportes automatizados
-
----
-
-## 🏆 Logros y Certificaciones
-
-- 🎓 **Ingeniería Civil Industrial** - [Universidad]
-- 🏅 **AWS Machine Learning Specialty** (En progreso)
-- 📜 **TensorFlow Developer Certificate**
-- 🥇 **Hackathon IA Industrial 2024** - Primer lugar
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Colaboración y Contacto
 
 ¿Interesado en colaborar en proyectos de **IA**, **optimización industrial** o **computer vision**? ¡Me encantaría conectar contigo!
@@ -105,19 +70,3 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([[https://tu-portfolio.com](https://junior-barrera.github.io/prueba/)](https://junior-barrera.github.io/prueba/))
 
 ---
-
-## ⚡ Dato Curioso
-
-Combino mi experiencia en **ingeniería industrial** con **inteligencia artificial** para crear soluciones que no solo son técnicamente sólidas, sino también **económicamente viables** y **operacionalmente eficientes**. Mi objetivo es democratizar el acceso a la IA en la industria.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Junior-barrera&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-*"La intersección entre la ingeniería tradicional y la inteligencia artificial es donde nacen las soluciones del futuro"*
-
-</div>
