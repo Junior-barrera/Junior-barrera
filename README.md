@@ -1,7 +1,7 @@
 # Bienvenido soy Junior Barrera
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ingeniero+Civil+Industrial;Desarrollador+Full+Stack;Especialista+en+IA+%26+ML;Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ingeniero+Civil+Industrial;Desarrollador;Especialista+en+IA+%26+ML;Computer+Vision+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -65,8 +65,9 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 
 ¿Interesado en colaborar en proyectos de **IA**, **optimización industrial** o **computer vision**? ¡Me encantaría conectar contigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([[https://tu-portfolio.com](https://junior-barrera.github.io/prueba/)](https://junior-barrera.github.io/prueba/))
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junior-barrera-025370108)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://junior-barrera.github.io/prueba/)
+
+</div>
