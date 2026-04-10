@@ -21,7 +21,7 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 
 | Demo principal | Sistema web | Dashboard IA |
 |:---:|:---:|:---:|
-| ![Demo principal](./DEMO_4.gif) | ![Dashboard](./DEMO_1.gif) | ![Analítica](./DEMO_2.gif) |
+| ![Demo principal](./DEMO_5.gif) | ![Dashboard](./DEMO_1.gif) | ![Analítica](./DEMO_2.gif) |
 
 | Proyecto adicional |
 |:---:|
