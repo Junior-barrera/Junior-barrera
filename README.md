@@ -17,7 +17,23 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 - 📍 *Ubicación:* Arica, Chile
 
 ---
+## 🚀 JR Services - Demos
 
+<div align="center">
+  <img src="./DEMO_4.gif" width="80%" />
+</div>
+
+<br>
+
+| Sistema web | Dashboard IA |
+|:---:|:---:|
+| ![Dashboard](./DEMO_1.gif) | ![Analítica](./DEMO_2.gif) |
+
+<br>
+
+| Otro proyecto | Demo adicional |
+|:---:|:---:|
+| ![Proyecto 3](./DEMO_3.gif) | — |
 # 🚀 Mis Proyectos y Empresas
 
 ## [JR Services](https://jrservices.cl/) – Fundador & CEO
@@ -74,14 +90,6 @@ Empresa líder con +10 años de experiencia, +200 proyectos y +50 clientes en Ch
 
 
 ---
-## 📹 Demos de proyectos
-
-| Proyecto 1 | Proyecto 2 |
-|:---:|:---:|
-| ![Demo 1](./DEMO_1.gif) | ![Demo 2](./DEMO_2.gif) |
-
-- 🔥 **Demo 1:** [descripción breve]
-- 🔥 **Demo 2:** [descripción breve]
 ## [JRJSON](https://pypi.org/project/jrjson/) – Creador & Mantenedor
 *Librería Python para manipulación avanzada de JSON*
 
