@@ -74,9 +74,17 @@ Empresa líder con +10 años de experiencia, +200 proyectos y +50 clientes en Ch
 
 
 ---
+## 📹 Demos de proyectos
 
+| Proyecto 1 | Proyecto 2 |
+|:---:|:---:|
+| ![Demo 1](./DEMO_1.gif) | ![Demo 2](./DEMO_2.gif) |
+
+- 🔥 **Demo 1:** [descripción breve]
+- 🔥 **Demo 2:** [descripción breve]
 ## [JRJSON](https://pypi.org/project/jrjson/) – Creador & Mantenedor
 *Librería Python para manipulación avanzada de JSON*
 
 ```bash
 pip install jrjson
+
