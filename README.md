@@ -96,17 +96,7 @@ Empresa líder con +10 años de experiencia, +200 proyectos y +50 clientes en Ch
 Descripción
 jrjson es una librería ligera y eficiente que convierte matrices (listas de listas) a JSON de forma simple, rápida y sin dependencias externas. Ideal para procesar datos tabulares, exportar desde Excel/CSV o transformar estructuras de datos.
 
-⚡ Características
-Característica	Descripción
-🔄 Convierte matrices a JSON	Transforma cualquier lista de listas en JSON estructurado
-🏷️ Soporta encabezados automáticos	Usa la primera fila como keys del objeto JSON
-📄 Salida formateada	JSON con indentación legible para humanos
-💻 CLI incluida	Ejecuta desde terminal sin escribir código Python
-🪶 Ligero y fácil de usar	Sin dependencias pesadas, solo Python puro
-🐍 Python 3+	Compatible con Python 3.x
-🚀 Uso en Python
-Con encabezados (recomendado)
----
+
 
 ## 📦 Instalación
 
