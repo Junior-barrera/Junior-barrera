@@ -93,13 +93,7 @@ Empresa líder con +10 años de experiencia, +200 proyectos y +50 clientes en Ch
 [![Python Versions](https://img.shields.io/pypi/pyversions/jrjson)](https://pypi.org/project/jrjson/)
 [![License](https://img.shields.io/pypi/l/jrjson)](https://opensource.org/licenses/MIT)
 
----
-
-## 📦 Instalación
-
-```bash
-pip install jrjson
- Descripción
+Descripción
 jrjson es una librería ligera y eficiente que convierte matrices (listas de listas) a JSON de forma simple, rápida y sin dependencias externas. Ideal para procesar datos tabulares, exportar desde Excel/CSV o transformar estructuras de datos.
 
 ⚡ Características
@@ -112,7 +106,12 @@ Característica	Descripción
 🐍 Python 3+	Compatible con Python 3.x
 🚀 Uso en Python
 Con encabezados (recomendado)
-python
+---
+
+## 📦 Instalación
+
+```bash
+pip install jrjson
 from jrjson import convertir
 
 matriz = [
