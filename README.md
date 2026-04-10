@@ -19,7 +19,7 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 ---
 
 
-# 🚀 Mis Proyectos y Empresas
+# Proyectos Personales
 
 | Demo principal |
 |:---:|
@@ -27,9 +27,9 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 
 | Demo1 | Demo2 | Demo_segmentacion&yolo |
 |:---:|:---:|:---:|
-| ![Dashboard](./DEMO_1.gif) | ![Analítica](./DEMO_2.gif) | ![Proyecto 3](./DEMO_3.gif) |
+| ![demo](./DEMO_1.gif) | ![demo](./DEMO_2.gif) | ![demo](./DEMO_3.gif) |
 
-# 🚀 Mis Proyectos y Empresas
+# 🚀 Servicos y Empresas
 
 ## [JR Services](https://jrservices.cl/) – Fundador & CEO
 *Emprendimiento de Inteligencia Artificial & Sistemas WEB aplicados a la industria*
