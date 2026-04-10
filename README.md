@@ -17,7 +17,7 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 - 📍 *Ubicación:* Arica, Chile
 
 ---
-## 🚀 JR Services - Demos
+
 
 # 🚀 Mis Proyectos y Empresas
 
@@ -25,9 +25,10 @@ Soy **Ingeniero Civil Industrial** con pasión por la **Inteligencia Artificial*
 |:---:|
 | ![Demo principal](./DEMO_5.gif) |
 
-| Sistema web | Dashboard IA | Proyecto adicional |
+| Demo1 | Demo2 | Demo_segmentacion&yolo |
 |:---:|:---:|:---:|
 | ![Dashboard](./DEMO_1.gif) | ![Analítica](./DEMO_2.gif) | ![Proyecto 3](./DEMO_3.gif) |
+
 # 🚀 Mis Proyectos y Empresas
 
 ## [JR Services](https://jrservices.cl/) – Fundador & CEO
