@@ -85,9 +85,81 @@ Empresa líder con +10 años de experiencia, +200 proyectos y +50 clientes en Ch
 
 
 ---
-## [JRJSON](https://pypi.org/project/jrjson/) – Creador & Mantenedor
-*Librería Python para manipulación avanzada de JSON*
+# jrjson
+
+*Convierte matrices a JSON de forma simple, rápida y sin dependencias pesadas.*
+
+[![PyPI Version](https://img.shields.io/pypi/v/jrjson)](https://pypi.org/project/jrjson/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/jrjson)](https://pypi.org/project/jrjson/)
+[![License](https://img.shields.io/pypi/l/jrjson)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📦 Instalación
 
 ```bash
 pip install jrjson
+ Descripción
+jrjson es una librería ligera y eficiente que convierte matrices (listas de listas) a JSON de forma simple, rápida y sin dependencias externas. Ideal para procesar datos tabulares, exportar desde Excel/CSV o transformar estructuras de datos.
+
+⚡ Características
+Característica	Descripción
+🔄 Convierte matrices a JSON	Transforma cualquier lista de listas en JSON estructurado
+🏷️ Soporta encabezados automáticos	Usa la primera fila como keys del objeto JSON
+📄 Salida formateada	JSON con indentación legible para humanos
+💻 CLI incluida	Ejecuta desde terminal sin escribir código Python
+🪶 Ligero y fácil de usar	Sin dependencias pesadas, solo Python puro
+🐍 Python 3+	Compatible con Python 3.x
+🚀 Uso en Python
+Con encabezados (recomendado)
+python
+from jrjson import convertir
+
+matriz = [
+    ["nombre", "edad", "ciudad"],
+    ["Juan", 25, "Santiago"],
+    ["Ana", 30, "Valparaíso"]
+]
+
+resultado = convertir(matriz, usar_header=True)
+print(resultado)
+Output:
+
+json
+[
+  {
+    "nombre": "Juan",
+    "edad": 25,
+    "ciudad": "Santiago"
+  },
+  {
+    "nombre": "Ana",
+    "edad": 30,
+    "ciudad": "Valparaíso"
+  }
+]
+Sin encabezados
+python
+from jrjson import convertir
+
+matriz = [
+    ["Juan", 25],
+    ["Ana", 30]
+]
+
+resultado = convertir(matriz)
+print(resultado)
+Output:
+
+json
+[
+  {
+    "0": "Juan",
+    "1": 25
+  },
+  {
+    "0": "Ana",
+    "1": 30
+  }
+]
 
